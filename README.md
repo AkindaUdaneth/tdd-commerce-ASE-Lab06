@@ -1,5 +1,7 @@
 # TDD E-Commerce Platform
 
+[![CI Tests](https://github.com/AkindaUdaneth/tdd-commerce-ASE-Lab06/actions/workflows/python-tests.yml/badge.svg)](https://github.com/AkindaUdaneth/tdd-commerce-ASE-Lab06/actions/workflows/python-tests.yml)
+
 A lightweight e-commerce backend built entirely using **Test-Driven Development (TDD)**. This project demonstrates the strict application of the **Red ➔ Green ➔ Refactor** cycle using Python and `pytest`.
 
 ---
